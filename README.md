@@ -8,8 +8,8 @@ https://volasper.github.io/Metatrader_Web/
 
 
 
-# How to change language
-If you need to change language to yours, fork it and change index.html
+# How to set language
+If you need to set language to yours, fork it and change index.html
 
 lang=zh -> lang=*your language*
 
