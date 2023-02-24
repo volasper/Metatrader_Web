@@ -1,11 +1,16 @@
 # Metatrader_Web
-Use Github Page function to let your ios device can view metatrader
+Use Github Page to let your ios device can view metatrader
 
 # How to use
 Open the link below, and use it
+
 https://volasper.github.io/Metatrader_Web/
 
+
+
+# How to change language
 If you need to change language to yours, fork it and change index.html
+
 lang=zh -> lang=*your language*
 
 # Tutorials
